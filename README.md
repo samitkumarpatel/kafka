@@ -1,7 +1,9 @@
 # Kafka all-in-one
+
 ### Overview
+
 <details>
-  <summary>Server Architecture, Component</summary>
+  <summary>**Server Architecture, Component**</summary>
   # Apache Kafka Overview
 
 Apache Kafka is a **distributed event streaming platform** used for building real-time data pipelines and streaming applications. It is designed for **high-throughput, low-latency, and fault-tolerant** messaging.
@@ -126,6 +128,7 @@ Kafka is based on a **publish-subscribe messaging model**, where:
 - **Retention Policies**: Define how long messages are stored (time-based or size-based).
 
 </details>
+
 ### confluentinc
 - [confluent github with README's](https://github.com/confluentinc)
 - [confluent all-in-one example like run with docker, docker compose and ect...](https://github.com/confluentinc/cp-all-in-one/tree/control-center)
@@ -186,7 +189,7 @@ Import/export your data as streams of events with Kafka Connect
 </details>
 
 <details>
-<summary>Example of schema-registry with  apache/kafka-native OR confluentinc/cp-kafka & confluentinc/cp-schema-registry.</summary>
+<summary>Example of "schema-registry" with  "apache/kafka-native" OR "confluentinc/cp-kafka" & "confluentinc/cp-schema-registry".</summary>
 
 > To learn more about `confluentinc/cp-schema-registry` , follow [this guide](https://github.com/confluentinc/schema-registry)
 
