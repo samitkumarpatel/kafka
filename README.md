@@ -1,9 +1,11 @@
 # Kafka all-in-one
 
+To know more about Kafka production grade Infrastructure and self service and automation around it : [Kafka-Infrastructure](https://github.com/samitkumarpatel/kafka-infra).
+
 ### Overview
 
 <details>
-  <summary>**Server Architecture, Component**</summary>
+  <summary>Server Architecture, Component</summary>
   # Apache Kafka Overview
 
 Apache Kafka is a **distributed event streaming platform** used for building real-time data pipelines and streaming applications. It is designed for **high-throughput, low-latency, and fault-tolerant** messaging.
