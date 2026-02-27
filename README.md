@@ -1,6 +1,6 @@
 # Kafka all-in-one
 
-To know more about Kafka production grade Infrastructure and self service and automation around it : [Kafka-Infrastructure](https://github.com/samitkumarpatel/kafka-infra).
+[Kafka-Infrastructure](https://github.com/samitkumarpatel/kafka-infra) - To know more about Kafka production grade Infrastructure and self service and automation around it.
 
 ### Overview
 
