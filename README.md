@@ -1,4 +1,4 @@
-# Kafka all-in-one
+# Kafka Cluster all-in-one
 
 [Kafka-Infrastructure](https://github.com/samitkumarpatel/kafka-infra) - To know more about Kafka production grade Infrastructure and self service and automation around it.
 
